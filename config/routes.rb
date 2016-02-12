@@ -6,7 +6,7 @@ get '/pirate_baby/good' => 'quiz#good'
 get '/pirate_baby/question_1' => 'quiz#question_1'
 get '/pirate_baby/question_2' => 'quiz#question_2'
 get '/pirate_baby/question_3' => 'quiz#question_3'
-
+get '/pirate_baby/smack_pirate' => 'smack_pirate'
   # You can have the root of your site routed with "root"
   # root 'welcome#index'
 
